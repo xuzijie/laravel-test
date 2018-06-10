@@ -14,7 +14,7 @@
             "GreatPay\\GreatPayment": "src/"
         },
         "files": [
-            "src/GreatPay/Payment/function.php"
+            "src/function.php"
         ]
     }
 }
