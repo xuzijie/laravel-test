@@ -1,5 +1,5 @@
 <?php 
-namespace GreatPay\Payment;
+namespace GreatPay\GreatPayment;
 use Illuminate\Config\Repository;
 /**
  * 主要入口
@@ -13,6 +13,10 @@ class GreatPayment
 	function __construct(Repository $config)
 	{
 	   $this->config = $config;
+	}
+
+	public static function success(){
+		echo 111;
 	}
 }
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace GreatPay\Payment;
+namespace GreatPay\GreatPayment;
 
 use Illuminate\Support\ServiceProvider;
 

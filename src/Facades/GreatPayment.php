@@ -1,5 +1,5 @@
 <?php
-namespace GreatPay\Payment\Facades;
+namespace GreatPay\GreatPayment\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
