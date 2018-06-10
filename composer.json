@@ -1,8 +1,11 @@
 {
     "name": "greatpay/greatpay-for-laravel",
+    "description": "有赞支付 SDK for Laravel",
+    "keywords": ["youzan","laravel", "sdk"],
+    "license": "MIT",
     "authors": [
         {
-            "name": "Xu Zijie",
+            "name": "xuzijie",
             "email": "xuzijie@xuzijie.top"
         }
     ],
