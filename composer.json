@@ -1,20 +1,16 @@
 {
     "name": "greatpay/greatpayment",
     "description": "this is a payment for great",
-    "license": "MIT",
     "authors": [
         {
             "name": "Xu Zijie",
             "email": "xuzijie@xuzijie.top"
         }
     ],
-    "minimum-stability": "dev",
+    "require": {},
     "autoload": {
-        "psr-0": {
+        "psr-4": {
             "GreatPay\\GreatPayment": "src/"
-        },
-        "files": [
-            "src/function.php"
-        ]
+        }
     }
 }
