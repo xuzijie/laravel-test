@@ -1,20 +1,20 @@
 {
-    "name": "geekghc/laraflash-for-laravel",
-    "description": "flash for laravel",
+    "name": "greatpay/payment",
+    "description": "this is a payment for great",
     "license": "MIT",
     "authors": [
         {
-            "name": "GeekGhc",
-            "email": "ghcgavin@sina.com"
+            "name": "Xu Zijie",
+            "email": "xuzijie@xuzijie.top"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
-            "GeekGhc\\LaraFlash": "src/"
+            "GreatPay\\Payment": "src/"
         },
         "files": [
-            "src/GeekGhc/LaraFlash/function.php"
+            "src/GreatPay/Payment/function.php"
         ]
     }
 }
