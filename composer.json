@@ -1,6 +1,5 @@
 {
     "name": "greatpay/greatpay-for-laravel",
-    "description": "this is a payment for great",
     "authors": [
         {
             "name": "Xu Zijie",
@@ -10,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "GreatPay\\GreatPayment": "src/"
+             "GreatPay\\GreatPayment": "src/"
         }
     }
 }
