@@ -8,7 +8,7 @@ Just a test for laravel package development
 ## Installation
 
 ```shell
-$ composer require "aex/laraflash-for-laravel:dev-master" -vvv
+$ composer require "greatpay/greatpay-for-laravel:dev-master" -v1.0
 ```
 
 ## Documentation
