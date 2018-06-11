@@ -8,7 +8,7 @@ Just a test for laravel package development
 ## Installation
 
 ```shell
-$ composer require "greatpay/greatpay-for-laravel:dev-master" -v1.0
+$ composer require "xuzijie/laravel-test:dev-master" -v1.0
 ```
 
 ## Documentation
